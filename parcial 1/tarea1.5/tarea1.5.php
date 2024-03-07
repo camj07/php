@@ -58,3 +58,4 @@ echo "Cantidad de alumnos reprobados: $reprobados (". number_format($porcentaje_
 echo "Desviación estándar: $desviacion_estandar";
 
 ?>
+
